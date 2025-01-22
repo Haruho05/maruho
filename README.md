@@ -70,7 +70,7 @@
     <section id="introduction">
         <h2>トロントでの留学生活</h2>
         <p>私はカナダ・トロントで留学生活を送りました。最初は語学学校に通い、その後、ワーキングホリデーで現地で働きながら生活しました。トロントは多文化都市であり、様々な国の人々と交流できる素晴らしい場所です。</p>
-       <img src="file:///C:/Users/%E4%B8%B8%E5%B2%A1%E6%98%A5%E7%A9%82/Downloads/Toronto.jpg" alt="トロントの風景">
+       <img src="https://th.bing.com/th/id/OIP.H4Aqq6fxkX6khKMePXStTQHaE8?w=262&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
     </section>
 
     <section id="school">
